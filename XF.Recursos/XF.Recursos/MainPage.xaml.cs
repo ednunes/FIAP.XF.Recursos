@@ -68,5 +68,10 @@ namespace XF.Recursos
         {
             await Navigation.PushAsync(new PassParameter.MCHomeView());
         }
+
+        private async void btnMestre_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Menu.MainPage());
+        }
     }
 }
