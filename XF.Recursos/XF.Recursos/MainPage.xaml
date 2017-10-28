@@ -21,6 +21,10 @@
                 <Button x:Name="btnListClasse" Text="Classe complexa" Clicked="btnListClasse_Clicked"></Button>
                 <Button x:Name="btnProduto" Text="Produto" Clicked="btnProduto_Clicked"></Button>
                 <Button x:Name="btnEtiqueta" Text="Etiqueta" Clicked="btnEtiqueta_Clicked"></Button>
+
+                <Label FontSize="20" Text="Passar parametro"></Label>
+                <Button x:Name="btnHome" Text="Home" Clicked="btnHome_Clicked"></Button>
+                <Button x:Name="btnMC" Text="Messaging Center" Clicked="btnMC_Clicked"></Button>
             </StackLayout>
         </ScrollView>
     </ContentPage.Content>

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using XF.Recursos.Global;
 
 namespace XF.Recursos.PassParameter
 {
