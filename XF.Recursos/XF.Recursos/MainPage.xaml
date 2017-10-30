@@ -28,6 +28,13 @@
 
                 <Label FontSize="20" Text="Master/Details"></Label>
                 <Button x:Name="btnMestre" Text="Menu" Clicked="btnMestre_Clicked"></Button>
+
+                <Label FontSize="20" Text="GeoLocation - GPS"></Label>
+                <Button x:Name="btnLocation" Text="Coordenada" Clicked="btnLocation_Clicked"></Button>
+
+                <Label FontSize="20" Text="Phone API"></Label>
+                <Button x:Name="btnLigar" Text="Telefone" Clicked="btnLigar_Clicked"></Button>
+                <Button x:Name="btnCamera" Text="Camera" Clicked="btnCamera_Clicked"></Button>
             </StackLayout>
         </ScrollView>
     </ContentPage.Content>

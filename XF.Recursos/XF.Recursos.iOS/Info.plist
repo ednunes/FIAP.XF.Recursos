@@ -48,5 +48,10 @@
     </array>
     <key>UILaunchStoryboardName</key>
     <string>LaunchScreen</string>
+
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Permite acesso a localização?</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Sempre liberar esse privilégio?</string>
   </dict>
 </plist>
